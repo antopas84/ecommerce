@@ -1,0 +1,2 @@
+PER COMPILARE E CREARE js:  npm tun tsc 
+PER START: npm start 
